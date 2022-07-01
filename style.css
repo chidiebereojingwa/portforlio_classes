@@ -4,7 +4,7 @@
 } 
 .navbar{
     display: flex;
-    background-color: rgb(116, 97, 97);
+    background-color: #413d3d;
     height: 60px;
     justify-content: space-around;
     align-items: center;
@@ -36,4 +36,12 @@
 .list-item3 {
     
 }
-
+.container {
+    background-color: red;
+    color: white;
+    display: flex;
+    flex-direction: column;   
+}
+.flex-item {
+    flex: 1 1;
+}
