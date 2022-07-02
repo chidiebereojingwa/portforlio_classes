@@ -21,9 +21,27 @@
 }
 a {
     text-decoration: none;
+    color: white;
+
+}
+a:hover{
+    background: gray;
+    
+
 }
 
 .links ul li {
     padding: 10px;
-}
 
+}
+.img{
+    background-image: url(photo.jpeg);
+    background-size: cover;
+}
+.dan{
+    margin: 50px;
+    padding-left: 500px;
+
+    text-align: center;
+    color: bisque;
+}
